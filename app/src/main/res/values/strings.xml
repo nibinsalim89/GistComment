@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gist</string>
+    <string name="label_toolbar">Gist</string>
+    <string name="toast_msg_enter_comment">Please enter a comment</string>
+    <string name="dialog_title_gist_credentials">Enter gist credentials</string>
+    <string name="dialog_btn_ok">Ok</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_et_password">Password</string>
+    <string name="dialog_et_email">Email</string>
+    <string name="toast_msg_no_internet">Please check your internet</string>
+    <string name="tv_comments">Comments</string>
+    <string name="tv_description">Description: </string>
+    <string name="menu_gist_credentials">Gist credentials</string>
+    <string name="toast_msg_camera_permission">Camera permission required to scan the QR code</string>
+</resources>
